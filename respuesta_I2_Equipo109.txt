@@ -1,0 +1,12 @@
+TP 2
+respuestas: 
+- Gonzalo Vilte ALFA
+- Martin Vilas BETA
+- Mateo Alvarez GAMMA
+
+A- Una vez que estén realizados los cambios correspondiente dentro del repositorio original, puedo actualizar mi repositorio/fork utilizando "Sync fork"
+B- Si, Pero no es tan habitual, Alfa puede actualizar su Fork mediante la terminal agregando el repositorio de gamma como un remoto adicional
+
+C - Si, exactamente igual que el caso anterior  pero al revés. Desde la terminal.
+D - No, no se pierden. si no hay conflicto con los cambios, Git los mantiene. BETA
+
