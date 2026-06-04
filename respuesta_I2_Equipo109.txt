@@ -1,8 +1,10 @@
 TP 2
 respuestas: 
 - Gonzalo Vilte ALFA
-- Martin Vilas BETA
+- Martin Villas BETA
 - Mateo Alvarez GAMMA
+
+Respuestas:
 
 A- Una vez que estén realizados los cambios correspondiente dentro del repositorio original, puedo actualizar mi repositorio/fork utilizando "Sync fork"
 B- Si, Pero no es tan habitual, Alfa puede actualizar su Fork mediante la terminal agregando el repositorio de gamma como un remoto adicional
@@ -10,3 +12,23 @@ B- Si, Pero no es tan habitual, Alfa puede actualizar su Fork mediante la termin
 C - Si, exactamente igual que el caso anterior  pero al revés. Desde la terminal.
 D - No, no se pierden. si no hay conflicto con los cambios, Git los mantiene. BETA
 
+E BETA 
+git clone https://github.com/BETA_USUARIO/TP_SO_i2_Equipo.git
+git add .
+git status
+git commit -m "   "
+git push 
+
+GAMMA 
+git clone https://github.com/GAMMA_USUARIO/TP_SO_i2_Equipo.git
+git add .
+git status
+git commit -m "  "
+git push 
+
+ALFA 
+git clone https://github.com/ALFA_USUARIO/TP_SO_i2_Equipo.git
+git add .
+git commit -m "    "
+git status
+git push 
